@@ -2,7 +2,7 @@
 
 ## *Alexandre Hannagan 3IBC*
 
-J'ai laissé la branche par défaut sur github "main" mais tout le travail est fait sur la branche "master"
+J'ai laissé la branche par défaut sur github "main" mais tout le travail est fait sur la branche **"master"**
 
 Profitez en attendant de ce café et de ces éclairs au chocolat
 
